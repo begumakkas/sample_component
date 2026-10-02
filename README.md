@@ -1,4 +1,4 @@
-# Code Sample Brief: AdminUnitSelector
+# Code Sample: AdminUnitSelector
 
 A Svelte 5 + TypeScript component from [InsightOut](https://insightout.civic.garden) that lets a user pick one or more regions (administrative units) within a selected country. It is used across the app, in the survey and map pages.
 
